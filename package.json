@@ -1,0 +1,24 @@
+{
+  "name": "datetimeutilsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LakeeshaRCL/date-time-utils-js.git"
+  },
+  "keywords": ["date","time","datetime","convert","datetime utils","util"],
+  "author": "Lakeesha Ramanayaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LakeeshaRCL/date-time-utils-js/issues"
+  },
+  "homepage": "https://github.com/LakeeshaRCL/date-time-utils-js#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
